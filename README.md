@@ -3,6 +3,10 @@ MC504 Discipline - Second Activity
 
 ## Compile and run
 
+- Compilação:
+
 gcc test.c -lpthread -test
 
-./test
+- Execução:
+
+./test < entrada
